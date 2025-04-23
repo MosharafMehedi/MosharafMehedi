@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=MosharafMehedi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crystal.mosharaf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosharaf-hossain-102847277/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Arafat-Hossain-653) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosharafhossain4701@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MosharafMehedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MosharafMehedi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=0&color=0)](https://visitcount.itsvg.in)
 
