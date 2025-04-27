@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-<div align="center">
-  <img height="200" src=""C:\Users\ASUS\OneDrive\Pictures\4-Tips-every-software-engineer-should-follow-in-todays-age.webp""  />
-</div>
+![Image](https://github.com/user-attachments/assets/2730ab20-a912-4f9a-9d45-a38b0caf07cf)
 
 
 
