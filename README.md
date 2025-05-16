@@ -1,4 +1,6 @@
 ### 👋 Assalamu alaikum wa rahmatullah, I'm Mosharaf Hossain
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mosharafmehedi.mosharafmehedi&left_color=green&right_color=blue)
+
 
 ![Image](https://github.com/user-attachments/assets/2c05143d-6896-4991-bef5-546d7341421d)
 
