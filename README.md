@@ -39,6 +39,5 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mosharafmehedi.mosharafmehedi&left_color=black&right_color=blue)
 ![Visitor Count](https://komarev.com/ghpvc/?username=mosharafmehedi&label=Profile%20Views&color=blue&style=flat)
 
