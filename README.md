@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mosharafmehedi.mosharafmehedi&left_color=black&right_color=blue)
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=mosharafmehedi&label=Profile%20Views&color=blue&style=flat)
 
