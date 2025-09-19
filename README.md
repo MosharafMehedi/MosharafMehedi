@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development
 - 📫 How to reach me: ...
 
-- ⚡ Fun fact: .....
+- ⚡ Fun fact: I love solving challenging coding problems and exploring new technologies!
   
 
 # 💻 Tech Stack:
