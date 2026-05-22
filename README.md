@@ -23,15 +23,21 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MosharafMehedi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MosharafMehedi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MosharafMehedi&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MosharafMehedi&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&layout=compact&theme=tokyonight" />
+</p>
 
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=0&color=0)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=5&color=6" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
