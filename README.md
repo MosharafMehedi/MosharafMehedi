@@ -1,33 +1,21 @@
-# 👋 Assalamu Alaikum! I'm Mosharaf Hossain
+## 👋 Assalamu alaikum wa rahmatullah, I'm Mosharaf Hossain💕💕💕💕❤️💕💕💕💕
 
-<h3 align="center">Full-Stack Web Developer | Laravel | React | TypeScript</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Passionate+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+![Image](https://github.com/user-attachments/assets/2c05143d-6896-4991-bef5-546d7341421d)
 
-<p align="center">
-  <a href="https://github.com/MosharafMehedi">
-    <img src="https://komarev.com/ghpvc/?username=MosharafMehedi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/MosharafMehedi?label=Followers&style=flat&color=blue" alt="Followers" />
-</p>
 
----
 
-## 🚀 About Me
+Here are some ideas to get you started:
 
-I'm Mosharaf Hossain, a passionate Web Developer who loves building modern, scalable, and user-friendly web applications.
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning Laravel,React,Typescript
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Web Development, Laravel, React, or building Web apps...
+- 📫 How to reach me:....
 
-- 💻 Currently working on Frontend & Full-Stack Development.
-- 🌱 Learning Laravel, React, TypeScript, and modern web technologies.
-- ⚙️ Interested in Backend Development, REST APIs, and Database Design.
-- 🎯 Goal: Become a skilled Full-Stack Software Engineer.
-- 🤝 Open to collaborating on interesting web development projects.
-- 💬 Ask me about Laravel, PHP, React, JavaScript, and Web Development.
-- ⚡ Fun fact: I love solving challenging coding problems and exploring new technologies.
-
----
+- ⚡ Fun fact: I love solving challenging coding problems and exploring new technologies!
+  
 
 ## 🛠️ Tech Stack
 
@@ -64,56 +52,35 @@ I'm Mosharaf Hossain, a passionate Web Developer who loves building modern, scal
 
 ---
 
-## 📌 Featured Projects
+# 📊 GitHub Stats
 
-Here are some projects I'm working on and exploring.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MosharafMehedi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<!-- Replace these examples with your actual repository links -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MosharafMehedi&theme=tokyonight" />
+</p>
 
-- 🚀 **Advanced ERP** – Enterprise Resource Planning application.
-- 🎓 **EduNova** – Online Education Management System using Django.
-- 🏛️ **Parliament Document Management** – Document management application.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=5&color=6" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crystal.mosharaf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosharaf-hossain-102847277/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Arafat-Hossain-653) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosharafhossain4701@gmail.com) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MosharafMehedi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Statistics
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+![Visitor Count](https://komarev.com/ghpvc/?username=mosharafmehedi&label=Profile%20Views&color=blue&style=flat)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MosharafMehedi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MosharafMehedi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosharafMehedi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MosharafMehedi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://facebook.com/crystal.mosharaf">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mosharaf-hossain-102847277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mosharafhossain4701@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ### 💙 Thanks for visiting my profile!
-  **Keep Learning | Keep Building | Keep Growing 🚀**
-</p>
