@@ -16,8 +16,8 @@
 
 Hello! I'm **Mosharaf Hossain**, a passionate Web Developer who loves building modern, responsive, and scalable web applications.
 
-- 🔭 **Currently Working On:** Frontend Development and building modern web applications.
-- 🌱 **Currently Learning:** Laravel, React.js, TypeScript, and advanced web development.
+- 🔭 **Currently Working On:** Building modern web applications.
+- 🌱 **Currently Learning:** Advanced web development.
 - 👯 **Looking to Collaborate On:** Open-source projects, ERP solutions, and innovative web applications.
 - 🤝 **Looking to Improve:** Software Architecture, RESTful APIs, and Full-Stack Development.
 - 💬 **Ask Me About:** PHP, Laravel, React.js, JavaScript, TypeScript, MySQL, and Web Development.
