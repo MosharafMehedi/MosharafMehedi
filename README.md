@@ -1,7 +1,14 @@
-## 👋 Assalamu alaikum wa rahmatullah, I'm Mosharaf Hossain💕💕💕💕❤️💕💕💕💕
+<div align="center">
 
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=MOSHARAF%20HOSSAIN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=19&descAlignY=58&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
 
-![Image](https://github.com/user-attachments/assets/2c05143d-6896-4991-bef5-546d7341421d)
+<!-- Typing Animation -->
+<a href="https://github.com/MosharafMehedi">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=65&lines=Assalamu+Alaikum!+Welcome+to+my+Profile+%F0%9F%91%8B;I+am+Mosharaf+Hossain;Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;PHP+%7C+Python+%7C+Django;Turning+Ideas+Into+Digital+Solutions;Code.+Create.+Innovate.+Repeat." />
+</a>
+
+<br/>
 
 
 
