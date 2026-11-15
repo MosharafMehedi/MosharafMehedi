@@ -1,29 +1,35 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Premium Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=MOSHARAF%20HOSSAIN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=19&descAlignY=58&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/MosharafMehedi">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=65&lines=Assalamu+Alaikum!+Welcome+to+my+Profile+%F0%9F%91%8B;I+am+Mosharaf+Hossain;Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;PHP+%7C+Python+%7C+Django;Turning+Ideas+Into+Digital+Solutions;Code.+Create.+Innovate.+Repeat." />
-</a>
+<!-- Animated Typing Introduction -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=65&lines=Assalamu+Alaikum!+Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Mosharaf+Hossain+%F0%9F%92%99;Passionate+Full+Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
 <br/>
 
+</div>
 
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Laravel,React,Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Web Development, Laravel, React, or building Web apps...
-- 📫 How to reach me:....
+Hello! I'm **Mosharaf Hossain**, a passionate Web Developer who loves building modern, responsive, and scalable web applications.
 
-- ⚡ Fun fact: I love solving challenging coding problems and exploring new technologies!
-  
+- 🔭 **Currently Working On:** Frontend Development and building modern web applications.
+- 🌱 **Currently Learning:** Laravel, React.js, TypeScript, and advanced web development.
+- 👯 **Looking to Collaborate On:** Open-source projects, ERP solutions, and innovative web applications.
+- 🤝 **Looking to Improve:** Software Architecture, RESTful APIs, and Full-Stack Development.
+- 💬 **Ask Me About:** PHP, Laravel, React.js, JavaScript, TypeScript, MySQL, and Web Development.
+- 📫 **Reach Me At:** [mosharafhossain4701@gmail.com](mailto:mosharafhossain4701@gmail.com)
+- ⚡ **Fun Fact:** I love solving challenging coding problems, exploring new technologies, and turning creative ideas into real-world solutions.
+- 🎯 **My Goal:** To become an accomplished Full-Stack Developer and build impactful software that makes a difference.
 
+<div align="center">
+
+### 💙 Code. Create. Innovate. Repeat.
+
+</div>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
