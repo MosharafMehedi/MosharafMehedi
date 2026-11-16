@@ -21,7 +21,7 @@ Hello! I'm **Mosharaf Hossain**, a passionate Web Developer who loves building m
 - 👯 **Looking to Collaborate On:** Open-source projects, ERP solutions, and innovative web applications.
 - 🤝 **Looking to Improve:** Software Architecture, RESTful APIs, and Full-Stack Development.
 - 💬 **Ask Me About:** PHP, Laravel, React.js, JavaScript, TypeScript, MySQL, and Web Development.
-- 📫 **Reach Me At:** [mosharafhossain4701@gmail.com](mailto:mosharafhossain4701@gmail.com)
+- 📫 **Reach Me At:** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosharafhossain4701@gmail.com) 
 - ⚡ **Fun Fact:** I love solving challenging coding problems, exploring new technologies, and turning creative ideas into real-world solutions.
 - 🎯 **My Goal:** To become an accomplished Full-Stack Developer and build impactful software that makes a difference.
 
