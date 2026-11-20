@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=MOSHARAF%20HOSSAIN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=19&descAlignY=58&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=MOSHARAF%20HOSSAIN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descSize=19&descAlignY=58&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
 
 <!-- Animated Typing Introduction -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=65&lines=Assalamu+Alaikum!+Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Mosharaf+Hossain+%F0%9F%92%99;Passionate+Full+Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
@@ -30,7 +30,8 @@ Hello! I'm **Mosharaf Hossain**, a passionate Web Developer who loves building m
 ### 💙 Code. Create. Innovate. Repeat.
 
 </div>
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
